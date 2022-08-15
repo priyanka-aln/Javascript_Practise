@@ -2,6 +2,7 @@
  * First session on printing signup variable for login page
  * 
  * Always use backticks and ${} when displaying many lines in output
+ * 
  */
 const uId = 1;
 var firstName= "Priyanka ";

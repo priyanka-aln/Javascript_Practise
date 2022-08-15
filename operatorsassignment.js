@@ -1,4 +1,5 @@
 /**
+ * Operators demo
  * Always wrap () around formulas while writting formulas
  */
 var SP = 199;
